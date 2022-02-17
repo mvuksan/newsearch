@@ -1,11 +1,11 @@
 const testimonials = [
   {
     id: 1,
-    name: 'Shaif Arfan',
+    name: 'Scot Irfan',
     title: 'CEO',
-    org: 'WEB CIFAR',
+    org: 'WEB DEV',
     desc:
-      'Ayan is a person of commitment. He is really good at what he is doing. I really like his work. Especially the unique point of view of designing.',
+      'Smart is a person of commitment. He is really good at what he is doing. I really like his work. Especially the unique point of view of designing.',
   },
   {
     id: 2,
