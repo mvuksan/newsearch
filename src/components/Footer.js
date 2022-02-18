@@ -59,8 +59,8 @@ export default function Footer() {
         <div className="footer__col1">
           <h1 className="footer__col1__title">React Site</h1>
           <PText>
-            A freelance web designer and developer from New Belgrade Serbia. I
-            always make websites that have unique designs and also has a good
+            A freelance web designer and developer from New New Belgrade Serbia.
+            I always make websites that have unique designs and also has a good
             performance rate.
           </PText>
         </div>
